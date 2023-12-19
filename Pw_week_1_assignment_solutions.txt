@@ -1,0 +1,34 @@
+Q1.) What are Primitive Data types in Java?
+Solution: The primitive data types present in Java are byte, short, int, long, float, double, char, String and boolean.
+
+Q2.) What are identifiers in Java?
+Solution: Identifiers are names to identify class names, variable names, method names,etc. 
+
+Q3.) What is final class in Java?
+Solution: A class declared with a final keyword is called final class. 
+
+Q4.) What are the two ways to make a class final?
+Solution: the constructors of a class can be made private or the "final" keyword can be used to make a class final.
+
+Q5.) Can we create an instance of final class in another class?
+Solution: Yes we can create an instance of final class in another class but it can't be inherited.
+
+Q6.) What is volatile keyword used for?
+Solution: Volatile keyword is used for to declare a variable to be used by multiple threads thus resulting in that variable not being cached.
+
+Q7.) What is the use of Transient keyword?
+Solution: It's used to indicate that a field should not be serialized.
+
+Q8.) What are types of casting?
+Solution: a) Primitive casting: Here the data is casted from one primitive to another primitive type. 
+ 		  b) Derived casting: When data from on e derived type is casted to another derived type. 
+
+Q9.) What is boxing and unboxing?
+Solution: Wrapping a primitive content into corresponding wrapper class object called boxing. Unwrapping the wrapper class object into primitive content is called unboxing.
+
+Q10.) What is the difference between keywords, identifiers and literals in Java?
+Solution: a) Keywords: These are pre-defined words with a set meaning for the compiler and thus are used as identifiers.
+ 
+          b) Identifiers: These are names assigned to classes, methods, variables, etc.
+
+          c) Literals: These are the values assigned to Identifiers.
